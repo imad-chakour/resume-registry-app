@@ -8,4 +8,4 @@ Check out the live application: [Automobiles Database](https://imad-chakour.gith
 ### Clone and Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/imad-chakour/automobiles_database.git
+   git clone https://github.com/imad-chakour/resume_registry.git
